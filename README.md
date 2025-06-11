@@ -1,2 +1,3 @@
 # PracticaJavaSpring-ALURA
-App utilizando java y spring implementando una API de musica y una base de datos local en PostgreSQL.
+App utilizando java y spring implementando una API de musica y una base de datos local en PostgreSQL.<br> 
+Proyecto en desarrollo...
